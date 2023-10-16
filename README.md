@@ -1,2 +1,2 @@
 # SkateAway
-A game where the user must avoid contact with the incoming zombies.
+where the skating action meets an ever-intensifying challenge. Powered by Pygame, this game offers an adrenaline-packed experience where players navigate a perilous world of relentless zombies. As you skate to evade the undead menace, the game ramps up the difficulty, making each escape more heart-pounding than the last. Your high score is recorded as a testament to your survival skills, a measure of your gaming prowess. 
